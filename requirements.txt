@@ -35,5 +35,5 @@ virtualenv==16.6.1
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 wcwidth==0.1.7
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 wrapt==1.11.1
